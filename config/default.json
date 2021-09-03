@@ -1,0 +1,15 @@
+{
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.3kvbr.mongodb.net",
+            "user": "admin-product-restapi",
+            "password": "7XGB5KQE3MdqINFk",
+            "dbname": "testdb"
+        }
+    },
+    "secretkeys": {
+        "cryptojs": "M>:3uFE_t%K&@s9/",
+        "jwt": "ABC@2021*"
+    },
+    "server-port": 3000
+}
